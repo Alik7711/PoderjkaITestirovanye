@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\YakubShataev\\PoderjkaITestirovanye\\\u0422\u043E\u0447\u043A\u0430 \u041E\u0441\u0442\u0430\u043D\u043E\u0432\u0430\\SimpleCalculatorWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F88C2E6-DFDF-4CAD-888B-01065548D7C4}|SimpleCalculatorWinForms\\SimpleCalculatorWinForms.csproj|d:\\yakubshataev\\poderjkaitestirovanye\\\u0442\u043E\u0447\u043A\u0430 \u043E\u0441\u0442\u0430\u043D\u043E\u0432\u0430\\simplecalculatorwinforms\\simplecalculatorwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F88C2E6-DFDF-4CAD-888B-01065548D7C4}|SimpleCalculatorWinForms\\SimpleCalculatorWinForms.csproj|solutionrelative:simplecalculatorwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F88C2E6-DFDF-4CAD-888B-01065548D7C4}|SimpleCalculatorWinForms\\SimpleCalculatorWinForms.csproj|D:\\YakubShataev\\PoderjkaITestirovanye\\\u0422\u043E\u0447\u043A\u0430 \u041E\u0441\u0442\u0430\u043D\u043E\u0432\u0430\\SimpleCalculatorWinForms\\simplecalculatorwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F88C2E6-DFDF-4CAD-888B-01065548D7C4}|SimpleCalculatorWinForms\\SimpleCalculatorWinForms.csproj|solutionrelative:simplecalculatorwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\YakubShataev\\PoderjkaITestirovanye\\\u0422\u043E\u0447\u043A\u0430 \u041E\u0441\u0442\u0430\u043D\u043E\u0432\u0430\\SimpleCalculatorWinForms\\SimpleCalculatorWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "SimpleCalculatorWinForms\\Form1.cs",
+              "ToolTip": "D:\\YakubShataev\\PoderjkaITestirovanye\\\u0422\u043E\u0447\u043A\u0430 \u041E\u0441\u0442\u0430\u043D\u043E\u0432\u0430\\SimpleCalculatorWinForms\\SimpleCalculatorWinForms\\Form1.cs",
+              "RelativeToolTip": "SimpleCalculatorWinForms\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:34:05.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\YakubShataev\\PoderjkaITestirovanye\\\u0422\u043E\u0447\u043A\u0430 \u041E\u0441\u0442\u0430\u043D\u043E\u0432\u0430\\SimpleCalculatorWinForms\\SimpleCalculatorWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "SimpleCalculatorWinForms\\Form1.cs",
+              "ToolTip": "D:\\YakubShataev\\PoderjkaITestirovanye\\\u0422\u043E\u0447\u043A\u0430 \u041E\u0441\u0442\u0430\u043D\u043E\u0432\u0430\\SimpleCalculatorWinForms\\SimpleCalculatorWinForms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SimpleCalculatorWinForms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:30:05.301Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

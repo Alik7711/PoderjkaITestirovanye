@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AbdurahmanovAlik\\\u041F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0430\u0418\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\WpfApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD24D8E-42BA-45F1-BFDE-3FB8C191098F}|WpfApp\\WpfApp.csproj|d:\\abdurahmanovalik\\\u043F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0430\u0438\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\wpfapp\\wpfapp\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD24D8E-42BA-45F1-BFDE-3FB8C191098F}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD24D8E-42BA-45F1-BFDE-3FB8C191098F}|WpfApp\\WpfApp.csproj|D:\\AbdurahmanovAlik\\\u041F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0430\u0418\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\WpfApp\\wpfapp\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD24D8E-42BA-45F1-BFDE-3FB8C191098F}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD24D8E-42BA-45F1-BFDE-3FB8C191098F}|WpfApp\\WpfApp.csproj|D:\\AbdurahmanovAlik\\\u041F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0430\u0418\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\WpfApp\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD24D8E-42BA-45F1-BFDE-3FB8C191098F}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "D:\\AbdurahmanovAlik\\\u041F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0430\u0418\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\WpfApp\\WpfApp\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "WpfApp\\AuthServiceTests.cs",
+              "ToolTip": "D:\\AbdurahmanovAlik\\\u041F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0430\u0418\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\WpfApp\\WpfApp\\AuthServiceTests.cs",
+              "RelativeToolTip": "WpfApp\\AuthServiceTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T07:52:08.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\AbdurahmanovAlik\\\u041F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0430\u0418\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\WpfApp\\WpfApp\\AuthService.cs",
+              "RelativeDocumentMoniker": "WpfApp\\AuthService.cs",
+              "ToolTip": "D:\\AbdurahmanovAlik\\\u041F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0430\u0418\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\WpfApp\\WpfApp\\AuthService.cs",
+              "RelativeToolTip": "WpfApp\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T07:43:58.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\AbdurahmanovAlik\\\u041F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0430\u0418\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\WpfApp\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\AbdurahmanovAlik\\\u041F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0430\u0418\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\WpfApp\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T07:28:52.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

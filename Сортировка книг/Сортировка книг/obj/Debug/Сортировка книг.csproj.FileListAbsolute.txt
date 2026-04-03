@@ -1,0 +1,11 @@
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Сортировка книг\Сортировка книг\obj\Debug\Сортировка книг.csproj.AssemblyReference.cache
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Сортировка книг\Сортировка книг\obj\Debug\SortirovkaKnig.Form1.resources
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Сортировка книг\Сортировка книг\obj\Debug\Сортировка_книг.Properties.Resources.resources
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Сортировка книг\Сортировка книг\obj\Debug\Сортировка книг.csproj.GenerateResource.cache
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Сортировка книг\Сортировка книг\obj\Debug\Сортировка книг.csproj.CoreCompileInputs.cache
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Сортировка книг\Сортировка книг\bin\Debug\Сортировка книг.exe.config
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Сортировка книг\Сортировка книг\bin\Debug\Сортировка книг.exe
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Сортировка книг\Сортировка книг\bin\Debug\Сортировка книг.pdb
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Сортировка книг\Сортировка книг\obj\Debug\Сортировка книг.exe
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Сортировка книг\Сортировка книг\obj\Debug\Сортировка книг.pdb
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Сортировка книг\Сортировка книг\obj\Debug\Сортировка книг.exe.config

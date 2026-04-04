@@ -1,0 +1,11 @@
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Work\Work\bin\Debug\Work.exe.config
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Work\Work\bin\Debug\Work.exe
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Work\Work\bin\Debug\Work.pdb
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Work\Work\obj\Debug\Work.csproj.AssemblyReference.cache
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Work\Work\obj\Debug\Work.Form1.resources
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Work\Work\obj\Debug\Work.Properties.Resources.resources
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Work\Work\obj\Debug\Work.csproj.GenerateResource.cache
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Work\Work\obj\Debug\Work.csproj.CoreCompileInputs.cache
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Work\Work\obj\Debug\Work.exe
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Work\Work\obj\Debug\Work.pdb
+D:\AbdurahmanovAlik\ПоддержкаИТестирование\Work\Work\obj\Debug\Work.exe.config
